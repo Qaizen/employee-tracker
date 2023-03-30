@@ -11,8 +11,8 @@ In the command line interface, enter 'npm start', then 'node index.js'.  Answer 
 
 ## Link to github repository
 
-[GitHub Repository](https://github.com/Qaizen/note-taker)
+[GitHub Repository](https://github.com/Qaizen/employee-tracker)
 
-## Link to app
+## Link to video
 
-[Link](https://radiant-badlands-32073.herokuapp.com/)
+[Link](udpate this)
