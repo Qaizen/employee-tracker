@@ -15,4 +15,4 @@ In the command line interface, enter 'npm start', then 'node index.js'.  Answer 
 
 ## Link to video
 
-[Link](udpate this)
+[Link](https://youtu.be/VzX-s-Ap9cg)
